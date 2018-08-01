@@ -1,0 +1,24 @@
+{
+  "name": "concatenate",
+  "version": "0.0.1",
+  "type": "flogo:activity",
+  "ref": "github.com/ramuksubam/flogo-activity",
+  "description": "Sample activity",
+  "author": "ramuksubam",
+  "inputs":[
+	{
+      "name": "salutation",
+      "type": "string"
+    },
+    {
+      "name": "name",
+      "type": "string"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "result",
+      "type": "string"
+    }
+  ]
+}
