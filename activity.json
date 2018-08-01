@@ -2,7 +2,7 @@
   "name": "concatenate",
   "version": "0.0.1",
   "type": "flogo:activity",
-  "ref": "github.com/ramuksubam/flogo-activity",
+  "ref": "github.com/ramuksubam/concatenate",
   "description": "Sample activity",
   "author": "ramuksubam",
   "inputs":[
