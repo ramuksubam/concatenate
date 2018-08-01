@@ -1,4 +1,4 @@
-package myWorld
+package concatenate
 
 import (
 	"github.com/TIBCOSoftware/flogo-lib/core/activity"

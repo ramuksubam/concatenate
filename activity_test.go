@@ -1,4 +1,4 @@
-package myWorld
+package concatenate
 
 import (
 	"io/ioutil"
