@@ -1,4 +1,4 @@
-package flogo-activity
+package concatenate
 
 import (
 	"github.com/TIBCOSoftware/flogo-lib/core/activity"
