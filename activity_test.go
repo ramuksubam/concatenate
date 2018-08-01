@@ -1,4 +1,4 @@
-package concatenate
+package flogo-activity
 
 import (
 	"io/ioutil"
